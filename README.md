@@ -1,9 +1,7 @@
 <h3 align="center">Конвейерное управление Миньонами</h3>
 
-<h1 align="center"> Конвейер и Миньоны** <h1>
-
 <h3 align="center">Или скорее модель конвейерного управления Горутинами <h3>
-
+<h1 align="center"> Конвейер и Миньоны** <h1>
 <p align="center">
   <img src="./Conveer.png" width="550" alt="accessibility text">
 </p>
