@@ -1,9 +1,9 @@
-<center>Конвейерное управление Миньонами
+<h3 align="center">Конвейерное управление Миньонами <h3>
 
 **Конвейер и Миньоны**
 
 Или скорее модель конвейерного управления Горутинами
-</center>
+
 <p align="center">
   <img src="./Conveer.png" width="550" alt="accessibility text">
 </p>
